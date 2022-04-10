@@ -1,0 +1,10 @@
+vscode-git
+U -> untracked
+M -> modified
+A -> added
+D -> deleted
+R -> renamed
+
+vscode-error-sign
+angka warna merah: terdeteksi error sebanyak angka
+angka warna oranye: terdeteksi warning sebanyak angka
